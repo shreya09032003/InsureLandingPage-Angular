@@ -11,12 +11,12 @@ import { Component } from '@angular/core';
 export class ServicesComponent {
   services = [
     {
-      image: '../../assets/images/service1.jpg', 
+      image: '../../assets/images/image7.webp', 
       subtitle: 'INSURANCE VEHICLE',
       title: 'Business Insurance'
     },
     {
-      image: '../../assets/images/service2.jpg',
+      image: '../../assets/images/image8.webp',
       subtitle: 'INSURANCE VEHICLE',
       title: 'Vehicle Insurance'
     },
