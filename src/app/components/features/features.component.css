@@ -1,0 +1,12 @@
+.features-section {
+    background-color: #f8fafc; 
+  }
+  
+  .feature-card {
+    transition: transform 0.2s; 
+  }
+  
+  .feature-card:hover {
+    transform: scale(1.05); 
+  }
+  

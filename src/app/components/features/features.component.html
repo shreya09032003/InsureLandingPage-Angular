@@ -1,0 +1,15 @@
+<section class="features-section p-20 bg-gray-100">
+    <div class="container mx-auto text-center mb-10"> 
+        <span class="text-primary uppercase text-lg">OUR FEATURES</span>
+        <h1 class="text-4xl font-bold mt-2 max-w-2xl mx-auto">Better digital insurance begins right here</h1>
+    </div>
+
+    <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div *ngFor="let feature of features"
+            class="feature-card bg-white rounded-lg shadow-lg p-6 flex flex-col items-start">
+            <img [src]="feature.icon" alt="{{ feature.title }}" class="mb-6 w-16 h-16" />
+            <h3 class="text-xl font-bold mb-4">{{ feature.title }}</h3>
+            <p class="text-gray-600">{{ feature.description }}</p>
+        </div>
+    </div>
+</section>

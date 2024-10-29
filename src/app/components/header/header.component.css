@@ -1,0 +1,14 @@
+
+  @media (max-width: 553px) {
+    .quote-btn{
+      display: none;
+    }
+    .quote{
+        font-size: x-small;
+    }
+    .search-area span{
+        font-size: x-small;
+        border: none;
+    }
+   
+  }

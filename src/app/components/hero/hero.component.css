@@ -1,0 +1,11 @@
+.father-daughter {
+    transition: opacity 0.5s ease; 
+    opacity: 1; 
+}
+
+@media (max-width: 1162px) {
+    .father-daughter,img {
+        opacity: 0.1; 
+    }
+}
+
