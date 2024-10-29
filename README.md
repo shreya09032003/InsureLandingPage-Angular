@@ -1,34 +1,14 @@
 # Angular Responsive Landing Page
 
-A fully responsive, professional-grade landing page built with Angular and Tailwind CSS. This project is a replica of a specified design, implementing a modern UI with attention to mobile and desktop responsiveness.
-
-## Features
-
-- **Responsive Layout**: The website adjusts seamlessly for various screen sizes using Tailwind CSS utilities.
-- **Organized Project Structure**: Components, assets, and styles are organized for scalability.
-- **Interactive Elements**: Includes fully functional buttons, links, and forms styled according to the design.
-- **Sectioned Layout**:
-  - **Header**: Navigation links and logo.
-  - **Hero Section**: Introductory content with images and call-to-action.
-  - **Services/Features**: Showcases different offerings or features.
-  - **Call to Action (CTA)**: Engages users to interact further.
-  - **Footer**: Contains links, contact details, and social media icons.
+A fully responsive landing page built with Angular and Tailwind CSS. This project is a replica of a specified design, implementing a modern UI with attention to mobile and desktop responsiveness.
 
 ## Demo
 
-- **Design Reference**: [Design URL here]
-- **Live Demo**: [Deployed URL here]
-
+- **Design Reference**: https://www.behance.net/gallery/174802689/Insurance-website-design
+- **Live Demo**: https://landingpageangularinsurance.netlify.app/
+  
 ## Screenshots
+![Screenshot 2024-10-29 121643](https://github.com/user-attachments/assets/6d994d39-b904-4426-bf74-731a734929dc)
+![Screenshot 2024-10-29 121708](https://github.com/user-attachments/assets/69bbba9e-06a6-4277-8ed9-32e5742ff055)
+![Screenshot 2024-10-29 121701](https://github.com/user-attachments/assets/ddd8714e-2a38-4995-a5d2-319b2e885c28)
 
-Here are some screenshots of the project:
-
-![Hero Section](./screenshots/hero-section.png)
-![Features Section](./screenshots/features-section.png)
-![Footer Section](./screenshots/footer-section.png)
-
-## Installation and Setup
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
