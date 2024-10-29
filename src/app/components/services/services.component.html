@@ -2,9 +2,7 @@
   <div class="container mx-auto text-center mb-10"> 
     <span class="text-primary uppercase text-sm sm:text-lg">INSURANCE SERVICES</span>
     <h1 class="text-2xl sm:text-3xl md:text-4xl font-bold mt-2 max-w-2xl mx-auto">Take The Worry Out Of Life With Insurance Protection</h1>
-  </div>
-  
-  
+  </div>  
     <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 xl:h-[400px] sm:h-[600px] ">
       <div *ngFor="let service of services" class="service-card relative bg-white rounded-lg shadow-lg overflow-hidden h-full">
         <img [src]="service.image" alt="{{ service.title }}" class="w-full h-full object-cover" />
@@ -13,8 +11,6 @@
           <h2 class="text-xl font-bold mt-1">{{ service.title }}</h2>
         </div>
       </div>
-    </div>
-    
-      
-  </section>
+    </div>  
+</section>
   
