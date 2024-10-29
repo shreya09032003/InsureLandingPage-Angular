@@ -5,7 +5,7 @@ A fully responsive landing page built with Angular and Tailwind CSS. This projec
 ## Demo
 
 - **Design Reference**: https://www.behance.net/gallery/174802689/Insurance-website-design
-- **Live Demo**: https://landingpageinsurance1.netlify.app/
+- **Live Demo**: https://landingpageangular2.netlify.app/
   
 ## Screenshots
 ![Screenshot 2024-10-29 121643](https://github.com/user-attachments/assets/6d994d39-b904-4426-bf74-731a734929dc)
